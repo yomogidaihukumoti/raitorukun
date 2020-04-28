@@ -2,13 +2,14 @@
 <html>
  <h1>株式会社raitorukun</h1>
  <meta charset="UTF8">
+<title>raitokurun<title>
 <head>
-body {
-	     background-image: url(s_1.jpg);
-	    }
-</style>
+
 </head>
-<body>
+body {
+      background-image: url(s_1.jpg);
+      }
+</style>
  <p>s_1.jpg</p>
 <br><br><br>
 <a href="http://www.gendama.jp"<<h2>家でお金を稼ぎましょう</h2></a>
