@@ -1,5 +1,6 @@
 <!DOCUTYPE html>
 <html>
+ <meta charset="UTF8">
  <h1>株式会社raitorukun</h1>
 <head>
  <title>raitorukun</title>
