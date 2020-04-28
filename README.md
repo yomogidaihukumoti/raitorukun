@@ -3,7 +3,7 @@
  <h1>株式会社raitorukun</h1>
  <meta charset="UTF8">
 <head>
- <title>raitorukun</title>
+ <title>raitorukun<title>
 </head>
 <body>
 <br><br><br>
