@@ -6,4 +6,4 @@ raitorukun
 </head>
 <body>
 <br><br><br>
-<h2>家でお金を稼ぎましょう</h2>
+<a href="http://www.gendama.jp"<<h2>家でお金を稼ぎましょう</h2></a>
