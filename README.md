@@ -9,9 +9,9 @@ raitorukun
 <a href="http://www.gendama.jp"<<h2>家でお金を稼ぎましょう</h2></a>
 <table border="3">
   <tr>
-    <th>s_1</th>
-    <th>s_2</th>
-    <th>s_3</th>
+    <th>img src="s_1.jpg"</th>
+    <th>img src="s_2.jpg"</th>
+    <th>img src="s_3.jpg"</th>
 <table>
 </body>
 </html>
