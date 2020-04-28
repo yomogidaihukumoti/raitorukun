@@ -2,6 +2,7 @@
 <html>
 <h1>株式会社raitorukun</h1>
 <head>
+  <title>raitorukun</title>
 </head>
 <body>
 <br><br><br>
