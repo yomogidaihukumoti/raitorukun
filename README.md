@@ -12,7 +12,7 @@ body {
 </style>
  <p>s_1.jpg</p>
 <br><br><br>
-<a href="http://www.gendama.jp"<<h2>家でお金を稼ぎましょう</h2></a>
+<a href ="http://www.gendama.jp"<<h2>家でお金を稼ぎましょう</h2></a>
 <table border="1">
   <tr>
     <th><img src="s_1.jpg"></th>
